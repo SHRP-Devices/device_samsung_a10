@@ -126,6 +126,7 @@ TW_USE_NEW_MINADBD := true
 TW_NO_LEGACY_PROPS := true
 TW_EXCLUDE_TWRPAPP := true
 TW_EXTRA_LANGUAGES := true
+TW_FORCE_USE_BUSYBOX := true
 
 # SHRP
 SHRP_PATH := device/samsung/a10
